@@ -1,1 +1,2 @@
-# ball_toss
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
